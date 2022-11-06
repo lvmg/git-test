@@ -1,0 +1,14 @@
+package com.mglv.git;
+
+/**
+ * @Description:
+ * @Author: MG LV
+ * @Date: 18:58 2022/11/6
+ * @version: 1.0
+ */
+
+public class test {
+    public static void main(String[] args) {
+        System.out.println("this is a test content");
+    }
+}
