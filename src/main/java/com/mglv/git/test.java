@@ -14,6 +14,6 @@ public class test {
         System.out.println("this is the third content");
         System.out.println("this is the fourth content");
         System.out.println("what's wrong ");
-        System.out.println("push test ");
+        System.out.println("push test. ");
     }
 }
